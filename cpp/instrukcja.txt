@@ -1,3 +1,4 @@
+cp -R szablon liczby_pierwsze
 ----------------------------------------
 Instrukcja uruchamiania projektow
          na zajeciach  
